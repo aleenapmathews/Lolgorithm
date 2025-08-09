@@ -6,7 +6,7 @@ body {
   color: #f0e6ff;
   font-family: 'Fredoka One', cursive;
   display: flex;
-  justify-content: center;
+  justify-content: center; 
   align-items: center;
   height: 100vh;
 }
